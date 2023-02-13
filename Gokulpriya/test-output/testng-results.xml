@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12164" started-at="2023-01-27T19:45:08 IST" finished-at="2023-01-27T19:45:20 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12164" started-at="2023-01-27T19:45:08 IST" finished-at="2023-01-27T19:45:20 IST">
+      <class name="testngwaits.i1">
+        <test-method status="PASS" signature="hard()[pri:0, instance:testngwaits.i1@8b87145]" name="hard" duration-ms="12111" started-at="2023-01-27T19:45:08 IST" finished-at="2023-01-27T19:45:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hard -->
+      </class> <!-- testngwaits.i1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
